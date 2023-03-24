@@ -1,0 +1,11 @@
+.nav a {
+  color: #fff;
+}
+.nav a:hover {
+  color: rgb(220, 131, 115);
+  border-bottom: 2px solid rgb(220, 131, 115);
+}
+.nav a.active {
+  color: tomato;
+  border-bottom: 2px solid tomato;
+}
